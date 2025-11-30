@@ -19,8 +19,8 @@
 
 
 <table align="center">
-    <tr>
-        <td>
+    <tr align="center">
+        <td align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=ihsanlearn&show_icons=true&theme=tokyonight&hide_border=true" alt="iihhn's GitHub stats" />
           <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanlearn&layout=compact&theme=tokyonight&hide_border=true"/>
         </td>
