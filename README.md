@@ -34,6 +34,7 @@
     </tr>
 </table>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ihsanlearn.ihsanlearn&"  />
-</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ihsanlearn&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="iihhn" style="padding-right:20px;" />
+</p>
