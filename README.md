@@ -21,13 +21,15 @@
 <table align="center">
     <tr align="center">
         <td align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=ihsanlearn&show_icons=true&theme=tokyonight&hide_border=true" alt="iihhn's GitHub stats" />
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanlearn&layout=compact&theme=tokyonight&hide_border=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=ihsanlearn&show_icons=true&theme=tokyonight&hide_border=true" alt="iihhn's GitHub stats" />
+            <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanlearn&layout=compact&theme=tokyonight&hide_border=true"/>
         </td>
     </tr>
-    <tr align="center">
-        <td align="center">
-            <img src="https://streak-stats.demolab.com?user=ihsanlearn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak"  />
+    <tr>
+        <td>
+            <div align="center">
+                <img src="https://streak-stats.demolab.com?user=ihsanlearn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak" />
+            </div>
         </td>
     </tr>
 </table>
