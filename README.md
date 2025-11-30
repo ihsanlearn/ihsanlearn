@@ -28,9 +28,7 @@
     </td>
   </tr>
 <tr>
-    <td>
-        <img src="https://streak-stats.demolab.com?user=ihsanlearn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak"  />
-    </td>
+    <img src="https://streak-stats.demolab.com?user=ihsanlearn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak"  />
 </tr>
 </table>
 
