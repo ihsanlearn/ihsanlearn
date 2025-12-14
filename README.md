@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00EFFF&background=00000000&center=true&vCenter=true&width=600&weight=700&lines=iihhn;skiddie;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00EFFF&background=00000000&center=true&vCenter=true&width=600&weight=700&lines=iihn;scriptkiddie;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,15 +18,17 @@
 </p>
 
 
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
     <tr align="center">
         <td align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=ihsanlearn&show_icons=true&theme=tokyonight&hide_border=true" alt="iihhn's GitHub stats" />
+        </td>
+        <td>
             <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanlearn&layout=compact&theme=tokyonight&hide_border=true"/>
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <div align="center">
                 <img src="https://streak-stats.demolab.com?user=ihsanlearn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak" />
             </div>
