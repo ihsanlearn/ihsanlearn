@@ -17,7 +17,6 @@
   </a> -->
 </p>
 
-
 <table align="center" style="border-collapse: collapse;">
     <tr align="center">
         <td align="center">
