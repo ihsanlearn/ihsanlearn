@@ -8,8 +8,7 @@
   </a>
   <a href="https://linkedin.com/in/ihsan-restu-adi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    
+  </a> 
   <!-- <a href="https://hackerone.com/iihhn">
     <img src="https://img.shields.io/badge/HackerOne-4946E6?style=for-the-badge&logo=hackerone&logoColor=white"/>
   </a>
