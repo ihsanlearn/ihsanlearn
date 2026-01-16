@@ -14,7 +14,6 @@
   </a>
   <a href="https://bugcrowd.com/h/iihhn">
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-  </a> -->
 </p>
 
 <table align="center" style="border-collapse: collapse;">
